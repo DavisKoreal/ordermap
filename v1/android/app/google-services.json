@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584094051085",
+    "project_id": "ordermap-fcf93",
+    "storage_bucket": "ordermap-fcf93.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584094051085:android:07ada197b9d20b388a9e44",
+        "android_client_info": {
+          "package_name": "com.example.ordermap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMz7CjJJ1TQmpYf6iRkrWUNxQF_KjuBy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

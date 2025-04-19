@@ -1,0 +1,3 @@
+The data folder stores functions that acquire the data used in a project for example when we are drawing a line chart, the function to get the data should be described in the folder
+The models folder stores model descriptions of objects used in the project and there equivalent functions that map them to a form compatible when calling database functions 
+The services folder has services needed in the app. For example database services that might be needed by different widgets through the application
